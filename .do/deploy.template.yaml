@@ -1,0 +1,8 @@
+spec:
+  name: NAME_OF_REPO
+  services:
+  - environment_slug: python
+    git:
+      branch: main
+      repo_clone_url: REPO_CLONE_URL #(EXAMPLE: https://github.com/Zachary-Johnston/insta-python.git)
+    name: NAME_OF_REPO
