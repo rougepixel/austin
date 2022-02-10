@@ -1,0 +1,8 @@
+name: NAME_OF_REPO
+services:
+- environment_slug: python
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: digitalocean/NAME_OF_REPO
+  name: NAME_OF_REPO
