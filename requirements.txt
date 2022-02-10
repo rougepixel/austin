@@ -1,0 +1,9 @@
+pyramid==1.10
+pyramid-jinja2
+requests==2.20.0
+python-dotenv
+instaloader==4.8.4
+beautifulsoup4
+spotipy
+testresources
+responses
