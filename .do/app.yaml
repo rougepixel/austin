@@ -1,8 +1,8 @@
-name: Austin
+name: austin
 services:
 - environment_slug: python
   github:
     branch: main
     deploy_on_push: true
     repo: https://github.com/rougepixel/austin
-  name: Austin
+  name: austin
