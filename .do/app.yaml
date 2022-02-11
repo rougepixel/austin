@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: https://github.com/rougepixel/austin
+    repo: https://github.com/rougepixel/austin.git
   name: austin
